@@ -1,0 +1,30 @@
+body	{
+		background-color: #80b3ff;
+	}
+	
+	#outputDiv {
+		background-color: white;
+		font-size: 1.25em;
+		padding: 1.5em;
+		text-align: center;
+		min-height: 19em;
+		box-shadow: 7px 7px #afafaf;
+		
+	}
+	#buttonDiv	{
+		text-align: center;
+		padding: 1em;
+	}
+	#buttonDiv input{
+		width: 95%;
+		margin: 1%;
+	}
+	.blanks	{
+		letter-spacing: .5em;
+		font-size: 2em;
+		word-spacing: 1em;
+	}
+	hr	{
+		background-color: #ff4d4d;
+		height: .25em;
+	}
